@@ -9,6 +9,8 @@
     "pre-commit": "^1.1.1",
     "standard": "^5.1.1"
   },
+  "pre-commit": [
+  ],
   "devDependencies": {
     "code": "^1.5.0",
     "lab": "^5.15.2",
