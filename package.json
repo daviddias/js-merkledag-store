@@ -1,6 +1,6 @@
 {
   "name": "merkledag-store",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Node.js Implementation of the MerkleDAG Store",
   "main": "src/index.js",
   "dependencies": {
@@ -16,7 +16,9 @@
     "pre-commit": "^1.1.1",
     "standard": "^5.1.1"
   },
-  "engines" : { "node" : "^4.0.0" },
+  "engines": {
+    "node": "^4.0.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
