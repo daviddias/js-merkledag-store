@@ -1,6 +1,6 @@
 {
   "name": "merkledag-store",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "JavaScript Implementation of the MerkleDAG Store",
   "main": "src/index.js",
   "dependencies": {
