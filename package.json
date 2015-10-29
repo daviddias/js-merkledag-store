@@ -1,7 +1,7 @@
 {
   "name": "merkledag-store",
   "version": "0.1.1",
-  "description": "Node.js Implementation of the MerkleDAG Store",
+  "description": "JavaScript Implementation of the MerkleDAG Store",
   "main": "src/index.js",
   "dependencies": {
     "code": "^1.5.0",
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/diasdavid/node-merkledag-store.git"
+    "url": "https://github.com/diasdavid/js-merkledag-store.git"
   },
   "keywords": [
     "IPFS"
@@ -32,7 +32,7 @@
   "author": "David Dias <daviddias@ipfs.io>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/diasdavid/node-merkledag-store/issues"
+    "url": "https://github.com/diasdavid/js-merkledag-store/issues"
   },
-  "homepage": "https://github.com/diasdavid/node-merkledag-store"
+  "homepage": "https://github.com/diasdavid/js-merkledag-store"
 }
