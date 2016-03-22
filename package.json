@@ -5,9 +5,7 @@
   "main": "src/index.js",
   "dependencies": {
     "code": "^1.5.0",
-    "lab": "^5.15.2",
-    "pre-commit": "^1.1.1",
-    "standard": "^5.1.1"
+    "lab": "^5.15.2"
   },
   "pre-commit": [],
   "devDependencies": {
